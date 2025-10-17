@@ -1,0 +1,18 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "textScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "playwright": "^1.50.1"
+  }
+}
