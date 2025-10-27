@@ -4,7 +4,7 @@
   "main": "textScraper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node enhanced_text_scraper.js"
+    "start": "node textScraper.js"
   },
   "keywords": [],
   "author": "",
